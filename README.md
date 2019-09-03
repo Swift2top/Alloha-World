@@ -1,3 +1,2 @@
 # Alloha-World
-Ma first Experience!;
-holly seeee
+Ma first Experience!
